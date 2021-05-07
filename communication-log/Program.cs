@@ -10,6 +10,10 @@ namespace communication_log
             Console.WriteLine("Yes.  I see you");
 
             Console.WriteLine("Do you have the time?");
+
+            Console.WriteLine("What is your favorite holiday?");
+
+
         }
     }
 }

@@ -10,9 +10,14 @@ namespace communication_log
             Console.WriteLine("Yes.  I see you");
 
             Console.WriteLine("Do you like turtles?");
-            string input = Console.ReadLine();
+            string input1 = Console.ReadLine();
 
-            Console.WriteLine(input);
+            Console.WriteLine(input1);
+
+            Console.WriteLine("Tacos or Nachos?");
+            string input2 = Console.ReadLine();
+
+            Console.WriteLine(input2);
 
 
             Console.WriteLine("Once upon a time...");

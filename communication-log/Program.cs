@@ -9,10 +9,10 @@ namespace communication_log
             Console.WriteLine("Check.  Check.  Is this thing on?");
             Console.WriteLine("Yes.  I see you");
 
-            Console.WriteLine("What time is it?");
-            string timeInput = Console.ReadLine();
+            Console.WriteLine("Do you like turtles?");
+            string input = Console.ReadLine();
 
-            Console.WriteLine(timeInput);
+            Console.WriteLine(input);
 
 
             Console.WriteLine("Once upon a time...");

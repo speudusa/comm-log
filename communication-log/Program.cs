@@ -13,6 +13,10 @@ namespace communication_log
             string timeInput = Console.ReadLine();
 
             Console.WriteLine(timeInput);
+
+
+            Console.WriteLine("Once upon a time...");
+
         }
     }
 }

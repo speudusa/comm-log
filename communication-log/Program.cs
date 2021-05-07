@@ -23,7 +23,7 @@ namespace communication_log
             
             Console.WriteLine(input2);
 
-            Console.WriteLine("red grapes or green grapes?");
+            Console.WriteLine("cats or dogs?");
             string input3 = Console.ReadLine();
 
             Console.WriteLine(input3);
